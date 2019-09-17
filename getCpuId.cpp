@@ -60,4 +60,4 @@ int main(int argc, char *argv[])
     cout<<pCpuId<<endl;
     return 0;
 }
-//转自网络
+//来自网络
